@@ -1,0 +1,21 @@
+fr:
+  connectors:
+    first:
+      - "tout d'abord, "
+      - "en premier lieu, "
+      - "premièrement, "
+      - "pour commencer, "
+    last:
+      - "enfin, "
+      - "en dernier lieu, "
+      - "finalement, "
+      - "pour finir, "
+      - "ah, et j'allais oublier..."
+    middle:
+      - "ensuite, "
+      - "aussi, "
+      - "de même, "
+      - "de même, "
+      - "j'aimerais aussi mentionner que "
+      - "sinon, "
+
